@@ -23,9 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Header 2](#header2)
 [Link](url) and ![Image](src)
 ```
+
+[Header 2](#header2)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
